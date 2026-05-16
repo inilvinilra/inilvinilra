@@ -16,6 +16,57 @@
 
 ---
 
+## Digital Presence
+
+<div align="center">
+
+<a href="mailto:inilvinilra@proton.me">
+  <img src="https://img.shields.io/badge/Proton%20Mail-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+<a href="https://github.com/inilvinilra">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://gitlab.com/inilvinilra">
+  <img src="https://img.shields.io/badge/GitLab-020617?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/inilvinilra">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.credly.com/users/inilvinilra">
+  <img src="https://img.shields.io/badge/Credly-020617?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/17715799/inilvinilra">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-020617?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://hackerone.com/inilvinilra">
+  <img src="https://img.shields.io/badge/HackerOne-0f172a?style=for-the-badge&logo=hackerone&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/inilvinilra">
+  <img src="https://img.shields.io/badge/TryHackMe-0f172a?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+<a href="https://app.letsdefend.io/user/inilvinilra">
+  <img src="https://img.shields.io/badge/LetsDefend-0f172a?style=for-the-badge" />
+</a>
+<a href="https://app.hackthebox.com/profile/inilvinilra">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-0f172a?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://dev.to/inilvinilra">
+  <img src="https://img.shields.io/badge/DEV.to-111827?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://www.quora.com/profile/Inilvinilra">
+  <img src="https://img.shields.io/badge/Quora-111827?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## Identity
 
 <table>
@@ -280,6 +331,18 @@ Architecture, reliability, observability, usability, self-hosted deployment, pri
 ## Current Direction
 
 I am currently focused on secure backend architecture, CTI and OSINT product development, external attack surface monitoring workflows, Linux distribution engineering, privacy-oriented system design, DevOps/SecOps infrastructure, and security tooling with Go, Rust, Python, and TypeScript.
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:inilvinilra@proton.me">
+  <img src="https://img.shields.io/badge/inilvinilra@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
