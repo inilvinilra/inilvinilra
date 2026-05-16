@@ -56,6 +56,12 @@
 
 <br>
 
+<a href="https://www.youtube.com/@inilvinilra">
+  <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://kick.com/inilvinilra">
+  <img src="https://img.shields.io/badge/Kick-111827?style=for-the-badge&logo=kick&logoColor=white" />
+</a>
 <a href="https://dev.to/inilvinilra">
   <img src="https://img.shields.io/badge/DEV.to-111827?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
@@ -298,11 +304,6 @@ Architecture, reliability, observability, usability, self-hosted deployment, pri
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=inilvinilra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=c9d1d9&icon_color=38bdf8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inilvinilra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=c9d1d9" />
-
-<br><br>
 
 <img width="86%" src="https://streak-stats.demolab.com?user=inilvinilra&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB" />
 
