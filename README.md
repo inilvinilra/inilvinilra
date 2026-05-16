@@ -5,9 +5,10 @@
 ### Security Engineering · Cyber Threat Intelligence · OSINT · Linux · DevSecOps
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Threat%20Intelligence-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Builds-Security%20Platforms-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Arch%20Based-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Engineering-0f172a?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-111827?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Security-020617?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-1f2937?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 I build security-focused platforms, cyber intelligence systems, privacy-oriented tools, and Linux-based environments.
@@ -16,86 +17,97 @@ I build security-focused platforms, cyber intelligence systems, privacy-oriented
 
 ---
 
-## Overview
+## About
 
-I am a project-driven security engineering practitioner focused on building real systems for practical operational use.
+I am a project-driven security engineering practitioner focused on building practical systems for real operational use.
 
-My work sits between software engineering, cyber threat intelligence, OSINT, Linux security, infrastructure automation, and DevSecOps. I do not focus only on using security tools; I focus on designing, building, integrating, and improving systems that support real security workflows.
+My work sits between software engineering, cyber threat intelligence, OSINT, Linux security, infrastructure automation, and DevSecOps. I focus on designing, building, integrating, and improving systems that support real security workflows instead of only using existing tools.
 
-I work on platforms and tools related to threat intelligence, leaked credential monitoring, external attack surface visibility, privacy-first environments, Linux-based security distributions, and self-hosted security infrastructure.
+I work on platforms and environments related to leaked credential intelligence, external attack surface monitoring, privacy-first systems, Linux security distributions, self-hosted infrastructure, and security automation.
 
 ---
 
-## Core Focus
+## Core Domains
 
 <table>
   <tr>
-    <td><b>Cyber Threat Intelligence</b></td>
-    <td>Threat data collection, leaked credential intelligence, alerts, detections, incidents, dark web signals, and operational risk tracking.</td>
+    <td width="50%">
+      <h3>Cyber Threat Intelligence</h3>
+      <p>Threat data collection, leaked credential intelligence, alerts, detections, incidents, dark web signals, and operational risk tracking.</p>
+    </td>
+    <td width="50%">
+      <h3>External Attack Surface Monitoring</h3>
+      <p>Domain exposure, fake assets, public-facing risk indicators, vendor risk signals, and organization-level monitoring workflows.</p>
+    </td>
   </tr>
   <tr>
-    <td><b>External Attack Surface Monitoring</b></td>
-    <td>Domain exposure, fake assets, public-facing risk indicators, vendor risk signals, and organization-level monitoring workflows.</td>
+    <td width="50%">
+      <h3>OSINT & Automation</h3>
+      <p>Source aggregation, enrichment, classification, monitoring pipelines, investigation workflows, and intelligence dashboards.</p>
+    </td>
+    <td width="50%">
+      <h3>Linux Security</h3>
+      <p>Arch-based security environments, curated tooling, privacy defaults, installer customization, and offensive/defensive workflows.</p>
+    </td>
   </tr>
   <tr>
-    <td><b>OSINT & Automation</b></td>
-    <td>Source aggregation, enrichment, classification, monitoring pipelines, investigation workflows, and intelligence dashboards.</td>
-  </tr>
-  <tr>
-    <td><b>Linux Security</b></td>
-    <td>Arch-based security environments, curated tooling, privacy defaults, installer customization, and security-focused workflows.</td>
-  </tr>
-  <tr>
-    <td><b>DevSecOps Infrastructure</b></td>
-    <td>Dockerized services, backend APIs, queues, object storage, reverse proxies, monitoring, logging, and secure deployment foundations.</td>
+    <td width="50%">
+      <h3>DevSecOps Infrastructure</h3>
+      <p>Dockerized services, APIs, queues, object storage, reverse proxies, monitoring, logging, and deployment foundations.</p>
+    </td>
+    <td width="50%">
+      <h3>Privacy & OPSEC Tooling</h3>
+      <p>Self-hosted systems, hardened defaults, controlled environments, privacy-conscious architecture, and operational security workflows.</p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## Selected Projects
+## Selected Work
 
-### FecaiCTI NEXUS
-
-A modular cyber threat intelligence and external attack surface monitoring platform designed for organizations.
-
-The platform focuses on managing leaked credentials, threat detections, alerts, incidents, fake domains, dark web signals, vendor risk, VIP protection, compliance workflows, and operational security risks from a central dashboard.
-
-**Core areas:** CTI · EASM · Leaked Credentials · Alerts · Incidents · Vendor Risk · Dark Web Signals  
-**Stack:** NestJS · TypeScript · Next.js · PostgreSQL · Prisma · Redis · RabbitMQ · MinIO · Docker
-
----
-
-### Null Linux
-
-An Arch-based cybersecurity Linux distribution designed for security research, privacy, and offensive/defensive workflows.
-
-The project focuses on a curated Linux environment for red team, blue team, OSINT, OPSEC, forensics, networking, web security, wireless security, and exploitation workflows.
-
-**Core areas:** Linux Security · Privacy · OPSEC · Security Tooling · Arch Linux · BlackArch  
-**Stack:** Arch Linux · KDE Plasma · Shell · Calamares · BlackArch · Security Toolchains
-
----
-
-### CyberRSS
-
-A self-hosted intelligence feed aggregator for cybersecurity, AI, and technology content.
-
-The goal is to collect, normalize, classify, and present relevant technical content from multiple sources in a clean and useful format. It is designed around structured ingestion, filtering, categorization, and intelligence-oriented content workflows.
-
-**Core areas:** RSS · Cybersecurity News · Threat Intelligence · Content Classification · Automation  
-**Stack:** TypeScript · Backend Services · Feed Processing · Database · Self-hosted Infrastructure
-
----
-
-### Broowser
-
-A Firefox-based browser project focused on privacy, security, hardened defaults, and a cleaner browsing experience.
-
-The project explores browser customization, privacy-first configuration, hardened browsing defaults, security-oriented UX improvements, and a more controlled browsing environment.
-
-**Core areas:** Browser Hardening · Privacy · Security Defaults · User Experience  
-**Stack:** Firefox · Browser Configuration · Privacy Tooling · Security Hardening
+<table>
+  <tr>
+    <td width="30%"><b>FecaiCTI NEXUS</b></td>
+    <td>
+      Modular cyber threat intelligence and external attack surface monitoring platform for organizations.
+      <br><br>
+      Focused on leaked credentials, alerts, detections, incidents, fake domains, dark web signals, vendor risk, VIP protection, compliance workflows, and operational security risk management.
+      <br><br>
+      <sub><b>Stack:</b> NestJS · TypeScript · Next.js · PostgreSQL · Prisma · Redis · RabbitMQ · MinIO · Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Null Linux</b></td>
+    <td>
+      Arch-based cybersecurity Linux distribution designed for security research, privacy, and offensive/defensive workflows.
+      <br><br>
+      Built around curated tooling for red team, blue team, OSINT, OPSEC, forensics, networking, web security, wireless security, and exploitation.
+      <br><br>
+      <sub><b>Focus:</b> Arch Linux · BlackArch · Linux Security · Privacy Tools · Calamares · Security Workflows</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>CyberRSS</b></td>
+    <td>
+      Self-hosted intelligence feed aggregator for cybersecurity, AI, and technology content.
+      <br><br>
+      Designed to collect, normalize, classify, and present relevant technical content from multiple sources through clean intelligence-oriented workflows.
+      <br><br>
+      <sub><b>Focus:</b> RSS · Cybersecurity News · Threat Intelligence · Content Classification · Automation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Broowser</b></td>
+    <td>
+      Firefox-based browser project focused on privacy, security, hardened defaults, and a cleaner browsing experience.
+      <br><br>
+      Explores browser customization, privacy-first configuration, security-oriented UX improvements, and controlled browsing environments.
+      <br><br>
+      <sub><b>Focus:</b> Firefox · Browser Hardening · Privacy · Security Defaults · UX</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,35 +117,38 @@ The project explores browser customization, privacy-first configuration, hardene
 
 ### Languages
 
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go" />
-<img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=white" />
 
 ### Backend & Frontend
 
-<img src="https://img.shields.io/badge/NestJS-1f2937?style=for-the-badge&logo=nestjs" />
-<img src="https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-### Infrastructure
+### Data & Infrastructure
 
-<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis" />
-<img src="https://img.shields.io/badge/RabbitMQ-0f172a?style=for-the-badge&logo=rabbitmq" />
-<img src="https://img.shields.io/badge/MinIO-0f172a?style=for-the-badge&logo=minio" />
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx" />
-<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-020617?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-020617?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-020617?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/MinIO-020617?style=for-the-badge&logo=minio&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-020617?style=for-the-badge&logo=nginx&logoColor=white" />
 
-### Monitoring & Security
+### Security & Operations
 
-<img src="https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus" />
-<img src="https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana" />
-<img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CTI-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OSINT-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CTI-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EASM-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Security-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux%20Security-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prometheus-1e293b?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=white" />
 
 </div>
 
@@ -164,21 +179,27 @@ The project explores browser customization, privacy-first configuration, hardene
 
 ## Current Direction
 
-I am currently focused on improving my work around:
+I am currently focused on improving my work around secure backend architecture, CTI and OSINT product development, external attack surface monitoring workflows, Linux distribution engineering, privacy-oriented system design, DevOps/SecOps infrastructure, and security tooling with Go, Rust, and Python.
 
-- secure backend and API architecture
-- CTI and OSINT product development
-- external attack surface monitoring workflows
-- Linux distribution engineering
-- privacy-oriented system design
-- DevOps and SecOps infrastructure
-- Go, Rust, and Python for security tooling
+---
+
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## Philosophy
 
-I prefer building practical systems over only following tutorials or using ready-made tools.
+I prefer building practical systems over only following tutorials or relying on ready-made tools.
 
 My approach is based on understanding how systems work, designing clean architectures, building useful security workflows, and improving projects through real testing, automation, and operational thinking.
 
