@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="./inilvinilra-fastfetch.png" alt="inilvinilra — fastfetch" />
+<img width="100%" src="https://raw.githubusercontent.com/inilvinilra/inilvinilra/main/inilvinilra-fastfetch.png" alt="inilvinilra — fastfetch" />
 
 <br><br>
 
