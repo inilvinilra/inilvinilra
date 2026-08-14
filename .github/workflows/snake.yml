@@ -1,29 +1,35 @@
-name: Generate Snake
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: inilvinilra
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy snake animation
-        uses: JamesIves/github-pages-deploy-action@v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          branch: output
-          folder: dist
-          clean: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
