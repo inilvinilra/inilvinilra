@@ -1,22 +1,28 @@
-<!--
+!--
   inilvinilra — GitHub Profile README
-  Hero: fastfetch card (inilvinilra-fastfetch.png) — commit it next to this file
   Theme: slate / sky-blue (#38bdf8)
 -->
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/inilvinilra/inilvinilra/main/inilvinilra-fastfetch.png" alt="inilvinilra — fastfetch" />
+<h1><code>inilvinilra</code></h1>
+
+<strong>Security Engineering · Cyber Threat Intelligence · OSINT · Linux Security</strong>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Security+Engineering+%E2%80%A2+Cyber+Threat+Intelligence+%E2%80%A2+OSINT;Building+self-hosted%2C+privacy-first+security+platforms;Linux+distribution+engineering+%E2%80%A2+DevSecOps+%E2%80%A2+OPSEC" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Security+Engineering+%E2%80%A2+Cyber+Threat+Intelligence+%E2%80%A2+OSINT;Building+self-hosted%2C+privacy-first+security+platforms;Linux+distribution+engineering+%E2%80%A2+DevSecOps+%E2%80%A2+OPSEC" alt="Security engineering focus" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Arch%20Linux-020617?style=for-the-badge&logo=archlinux&logoColor=38BDF8" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Security%20Engineering-020617?style=for-the-badge&logo=securityscorecard&logoColor=38BDF8" alt="Security Engineering" />
+<img src="https://img.shields.io/badge/CTI%20%26%20OSINT-020617?style=for-the-badge&logo=protonvpn&logoColor=38BDF8" alt="CTI and OSINT" />
+<img src="https://img.shields.io/badge/Privacy%20%26%20OPSEC-020617?style=for-the-badge&logo=protonmail&logoColor=38BDF8" alt="Privacy and OPSEC" />
 
 </div>
 
----
-
-## Digital Presence
+Digital Presence
 
 <div align="center">
 
@@ -43,118 +49,110 @@
 
 </div>
 
----
-
-## Identity
+Identity
 
 I build security-focused platforms, cyber intelligence systems, privacy-oriented tools, and Linux-based environments. My work is project-driven and sits between software engineering, cyber threat intelligence, OSINT, Linux security, infrastructure automation, privacy engineering, and DevSecOps.
 
 I focus on designing practical systems that support real security workflows — understandable, self-hosted, privacy-conscious, and maintainable — instead of only using existing tools.
 
-**Core direction:** Cyber Threat Intelligence · External Attack Surface Monitoring · OSINT & Automation · Linux Security Engineering · Privacy & OPSEC Tooling · DevOps/SecOps Infrastructure · Security Product Development
+Core direction: Cyber Threat Intelligence · External Attack Surface Monitoring · OSINT & Automation · Linux Security Engineering · Privacy & OPSEC Tooling · DevOps/SecOps Infrastructure · Security Product Development
 
----
-
-## Project Portfolio
+Project Portfolio
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### FecaiCTI NEXUS
+FecaiCTI NEXUS
 
 Modular cyber threat intelligence and external attack surface monitoring platform for organizations.
 
 Leaked credentials, threat detections, alerts, incidents, fake domains, dark web signals, vendor risk, VIP protection, compliance workflows, and operational security risk management.
 
-`NestJS` · `TypeScript` · `Next.js` · `PostgreSQL` · `Prisma` · `Redis` · `RabbitMQ` · `MinIO` · `Docker`
+NestJS · TypeScript · Next.js · PostgreSQL · Prisma · Redis · RabbitMQ · MinIO · Docker
 
 </td>
 <td width="50%" valign="top">
 
-### Null Linux
+Null Linux
 
 Arch-based cybersecurity distribution for security research, privacy, and offensive/defensive workflows.
 
 Curated tooling for red team, blue team, OSINT, OPSEC, forensics, networking, web & wireless security, exploitation, and privacy-focused daily usage.
 
-`Arch Linux` · `BlackArch` · `KDE Plasma` · `Calamares` · `Privacy Tooling`
+Arch Linux · BlackArch · KDE Plasma · Calamares · Privacy Tooling
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### CyberRSS
+CyberRSS
 
 Self-hosted intelligence feed aggregator for cybersecurity, AI, and technology content.
 
 Collects, normalizes, classifies, and presents relevant technical content from multiple sources through clean intelligence-oriented workflows.
 
-`RSS` · `Threat Intelligence` · `Feed Processing` · `Automation`
+RSS · Threat Intelligence · Feed Processing · Automation
 
 </td>
 <td width="50%" valign="top">
 
-### Broowser
+Broowser
 
 Firefox-based browser focused on privacy, security, hardened defaults, and a cleaner browsing experience.
 
 Browser customization, privacy-first configuration, security-oriented UX, and controlled browsing environments.
 
-`Firefox` · `Browser Hardening` · `Privacy` · `Security Defaults`
+Firefox · Browser Hardening · Privacy · Security Defaults
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Null Calamares
+Null Calamares
 
 Installer foundation for a security-focused Linux distribution experience.
 
 Installation flow, distribution branding, privacy options, security workflow setup, and curated package selection.
 
-`Calamares` · `Linux Installer` · `Distribution Engineering`
+Calamares · Linux Installer · Distribution Engineering
 
 </td>
 <td width="50%" valign="top">
 
-### Null Welcome
+Null Welcome
 
 Onboarding and post-install experience for Null Linux.
 
 Tool discovery, role-based security workflows, multilingual UX, privacy guidance, and practical system setup.
 
-`Desktop UX` · `Security Workflows` · `Linux Onboarding`
+Desktop UX · Security Workflows · Linux Onboarding
 
 </td>
 </tr>
 </table>
 
----
-
-## Engineering Stack
+Engineering Stack
 
 <div align="center">
 
-**Languages & Runtime**
+Languages & Runtime
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash,nodejs&theme=dark" />
 
-**Backend, Frontend & Data**
+Backend, Frontend & Data
 
 <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,postgres,redis,prisma,rabbitmq&theme=dark" />
 
-**Infrastructure & Operations**
+Infrastructure & Operations
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,prometheus,grafana&theme=dark" />
 
 </div>
 
----
-
-## Linux & Distribution Work
+Linux & Distribution Work
 
 <div align="center">
 
@@ -170,13 +168,11 @@ Tool discovery, role-based security workflows, multilingual UX, privacy guidance
 
 </div>
 
----
-
-## Security Tooling Ecosystem
+Security Tooling Ecosystem
 
 <div align="center">
 
-**Web, AppSec & Recon**
+Web, AppSec & Recon
 
 <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OWASP%20ZAP-111827?style=for-the-badge" />
@@ -189,7 +185,7 @@ Tool discovery, role-based security workflows, multilingual UX, privacy guidance
 <img src="https://img.shields.io/badge/Subfinder-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/httpx-111827?style=for-the-badge" />
 
-**Network, Vulnerability & Traffic Analysis**
+Network, Vulnerability & Traffic Analysis
 
 <img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -198,7 +194,7 @@ Tool discovery, role-based security workflows, multilingual UX, privacy guidance
 <img src="https://img.shields.io/badge/Masscan-0f172a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Naabu-0f172a?style=for-the-badge" />
 
-**Blue Team, Detection & Intelligence**
+Blue Team, Detection & Intelligence
 
 <img src="https://img.shields.io/badge/YARA-1e293b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sigma-1e293b?style=for-the-badge" />
@@ -212,14 +208,12 @@ Tool discovery, role-based security workflows, multilingual UX, privacy guidance
 
 </div>
 
----
-
-## GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=inilvinilra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inilvinilra&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inilvinilra&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inilvinilra&theme=github_dark" alt="Repositories per language" />
 
 <br><br>
 
@@ -231,29 +225,23 @@ Tool discovery, role-based security workflows, multilingual UX, privacy guidance
 
 </div>
 
----
-
-## Contribution Flow
+Contribution Flow
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake-dark.svg" />
+  <img width="96%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake.svg" />
 </picture>
 
 </div>
 
----
+Current Direction
 
-## Current Direction
-
-Currently focused on secure backend architecture, CTI and OSINT product development, external attack surface monitoring workflows, Linux distribution engineering, privacy-oriented system design, DevOps/SecOps infrastructure, and security tooling with **Go, Rust, Python, and TypeScript**.
+Currently focused on secure backend architecture, CTI and OSINT product development, external attack surface monitoring workflows, Linux distribution engineering, privacy-oriented system design, DevOps/SecOps infrastructure, and security tooling with Go, Rust, Python, and TypeScript.
 
 I prefer building practical systems over relying on ready-made tools — understanding how systems work, designing clean architectures, and improving projects through real testing, automation, and operational thinking.
-
----
 
 <div align="center">
 
