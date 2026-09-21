@@ -1,231 +1,142 @@
-<!--
-  GitHub Profil README  —  repo:  inilvinilra/inilvinilra
-  Marka: koyu #05070a + kırmızı #e0231c  (inilvinilra.xyz)
-  İstersen H1'e gerçek adını koy:  # Daghlar Mammadov
--->
+<!-- inilvinilra — GitHub Profile README Theme: slate / sky-blue (#38BDF8) --> <div align="center"> <h1><code>inilvinilra</code></h1>
+<strong>Security Engineering · Cyber Threat Intelligence · OSINT · Linux Security</strong>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Security+Engineering+%E2%80%A2+Cyber+Threat+Intelligence+%E2%80%A2+OSINT;Building+self-hosted%2C+privacy-first+security+platforms;Linux+distribution+engineering+%E2%80%A2+DevSecOps+%E2%80%A2+OPSEC" alt="Security engineering focus" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Arch%20Linux-020617?style=for-the-badge&logo=archlinux&logoColor=38BDF8" alt="Arch Linux" /> <img src="https://img.shields.io/badge/Security%20Engineering-020617?style=for-the-badge&logo=securityscorecard&logoColor=38BDF8" alt="Security Engineering" /> <img src="https://img.shields.io/badge/CTI%20%26%20OSINT-020617?style=for-the-badge&logo=protonvpn&logoColor=38BDF8" alt="CTI and OSINT" /> <img src="https://img.shields.io/badge/Privacy%20%26%20OPSEC-020617?style=for-the-badge&logo=protonmail&logoColor=38BDF8" alt="Privacy and OPSEC" /> </div>
+Digital Presence
 <div align="center">
-
-# `@inilvinilra`
-
-### Zero-Day Researcher · Red Team Operator · Intelligence Platform Developer
-
-<a href="https://inilvinilra.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=E0231C&center=true&vCenter=true&width=680&height=45&lines=Zero-Day+Research+%26+Exploit+Development;Red+Team+Operations+%E2%80%94+Operator+%2F+Lead;Active+Directory+%2F+Cloud+%2F+AppSec;Building+an+Offensive+Intelligence+Platform" alt="typing" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-inilvinilra.xyz-E0231C?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A0A0A)](https://inilvinilra.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-inlvinilra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/inlvinilra)
-[![GitHub](https://img.shields.io/badge/GitHub-inilvinilra-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/inilvinilra)
-![Profile Views](https://komarev.com/ghpvc/?username=inilvinilra&style=for-the-badge&color=E0231C&label=PROFILE+VIEWS)
+<a href="mailto:inilvinilra@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-020617?style=for-the-badge&logo=protonmail&logoColor=white" /></a> <a href="https://github.com/inilvinilra"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://gitlab.com/inilvinilra"><img src="https://img.shields.io/badge/GitLab-020617?style=for-the-badge&logo=gitlab&logoColor=white" /></a> <a href="https://www.linkedin.com/in/inilvinilra"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.credly.com/users/inilvinilra"><img src="https://img.shields.io/badge/Credly-020617?style=for-the-badge&logo=credly&logoColor=white" /></a> <a href="https://stackoverflow.com/users/17715799/inilvinilra"><img src="https://img.shields.io/badge/Stack%20Overflow-020617?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <br> <a href="https://hackerone.com/inilvinilra"><img src="https://img.shields.io/badge/HackerOne-0f172a?style=for-the-badge&logo=hackerone&logoColor=white" /></a> <a href="https://tryhackme.com/p/inilvinilra"><img src="https://img.shields.io/badge/TryHackMe-0f172a?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> <a href="https://app.letsdefend.io/user/inilvinilra"><img src="https://img.shields.io/badge/LetsDefend-0f172a?style=for-the-badge" /></a> <a href="https://app.hackthebox.com/profile/inilvinilra"><img src="https://img.shields.io/badge/Hack%20The%20Box-0f172a?style=for-the-badge&logo=hackthebox&logoColor=white" /></a> <br> <a href="https://www.youtube.com/@inilvinilra"><img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://kick.com/inilvinilra"><img src="https://img.shields.io/badge/Kick-111827?style=for-the-badge&logo=kick&logoColor=white" /></a> <a href="https://dev.to/inilvinilra"><img src="https://img.shields.io/badge/DEV.to-111827?style=for-the-badge&logo=devdotto&logoColor=white" /></a> <a href="https://www.quora.com/profile/Inilvinilra"><img src="https://img.shields.io/badge/Quora-111827?style=for-the-badge&logo=quora&logoColor=white" /></a>
 
 </div>
+Identity
+I build security-focused platforms, cyber intelligence systems, privacy-oriented tools, and Linux-based environments. My work is project-driven and sits between software engineering, cyber threat intelligence, OSINT, Linux security, infrastructure automation, privacy engineering, and DevSecOps.
 
----
+I focus on designing practical systems that support real security workflows — understandable, self-hosted, privacy-conscious, and maintainable — instead of only using existing tools.
 
-## `>` whoami
+Core direction: Cyber Threat Intelligence · External Attack Surface Monitoring · OSINT & Automation · Linux Security Engineering · Privacy & OPSEC Tooling · DevOps/SecOps Infrastructure · Security Product Development
 
-```text
-Offensive security researcher focused on the full attack lifecycle:
-vulnerability research → exploit development → red team operations → tooling.
-I break Active Directory, web/API, mobile, desktop and cloud — then automate it.
-Currently building an offensive-intelligence platform that auto-aggregates
-public research, CVEs and threat data into one place: inilvinilra.xyz
-```
+Certifications
+<!-- ROZET EKLEME: her sertifikanın yanına kendi bulduğun <img ...> etiketini koy. Örnek: <a href="DOĞRULAMA_URL"><img src="ROZET_URL" height="80" alt="OSCP"></a> Bulana kadar aşağıdaki isim listesi olduğu gibi kalabilir. -->
+OffSec — OSCP · OSEE
 
-- 🔬 **Zero-day research & exploit development** (Windows/Linux internals, binary exploitation).
-- 🎯 **Red team operations** — full-scope adversary simulation, AD attack paths, C2 & infra dev.
-- 🕸️ **Offensive AppSec** — web, API, mobile, desktop application penetration testing.
-- 🛡️ **Blue-side literate** — SOC analysis, detection engineering & cyber defense.
-- 🏭 **OT / ICS security** — Schneider & Siemens PLC hardening, SCADA attack surface.
-- 🌍 Multilingual: **EN · TR · RU · AR**.
+SANS / GIAC — GXPN · GREM · GMOB
 
----
+Zero-Point Security — CRTO · CRTL · RTO II
 
-## `>` Focus Areas
+Altered Security — CRTE · CRTM
 
-![Exploit Dev](https://img.shields.io/badge/Exploit%20Development-E0231C?style=for-the-badge&labelColor=0A0A0A)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-E0231C?style=for-the-badge&labelColor=0A0A0A)
-![Red Teaming](https://img.shields.io/badge/Red%20Teaming-1F2937?style=for-the-badge&labelColor=0A0A0A)
-![Active Directory](https://img.shields.io/badge/Active%20Directory%20Attacks-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A)
-![Web & API](https://img.shields.io/badge/Web%20%26%20API%20Security-1F2937?style=for-the-badge&labelColor=0A0A0A)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-2C3E50?style=for-the-badge&labelColor=0A0A0A)
-![Malware Dev](https://img.shields.io/badge/Malware%20Dev%20%26%20Analysis-111111?style=for-the-badge&labelColor=0A0A0A)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-232F3E?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0A0A0A)
-![OSINT](https://img.shields.io/badge/OSINT-2C3E50?style=for-the-badge&labelColor=0A0A0A)
-![OT/ICS](https://img.shields.io/badge/OT%2FICS%20%26%20SCADA%20Security-D97706?style=for-the-badge&labelColor=0A0A0A)
-![Password Cracking](https://img.shields.io/badge/Password%20Cracking-111111?style=for-the-badge&labelColor=0A0A0A)
+The SecOps Group — CRTeamerX · CRTeamer · C-ADPenX · CAPenX · CAPen · CNPen · C-APIPen · CDAPen
 
----
+CyberWarFare Labs — CRTA · CRTS V2 · CRT-ID · CRT-COI · CEDP · CO3 · C3SA
 
-## 📜 Certifications
+INE / eLearnSecurity — eWPTX · eCPPT · eMAPT · eSOC
 
-> Highlighted in **red** = expert / eXtreme tier.
+8kSec — CMPen
 
-**OffSec**
-&nbsp;
-[![OSCP](https://img.shields.io/badge/OSCP-OffSec-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![OSEE](https://img.shields.io/badge/OSEE-OffSec-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
+MalDev Academy — MDC
 
-**SANS / GIAC**
-&nbsp;
-[![GXPN](https://img.shields.io/badge/GXPN-GIAC-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![GREM](https://img.shields.io/badge/GREM-GIAC-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![GMOB](https://img.shields.io/badge/GMOB-GIAC-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
+OPSWAT Academy — Comprehensive OSINT Expert · Ethical Hacking Expert · WebApp Exploitation Expert · Password Cracking Expert · OT Security Expert · Schneider PLC Secure Config Expert · Siemens PLC Secure Config Expert
 
-**Zero-Point Security**
-&nbsp;
-[![CRTO](https://img.shields.io/badge/CRTO-Zero--Point-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CRTL](https://img.shields.io/badge/CRTL-Zero--Point-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![RTO II](https://img.shields.io/badge/RTO%20II-Zero--Point-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
+Blue Team / Defense — BTL1 · BTL2 · CCD L1 · CCD L2
 
-**Altered Security**
-&nbsp;
-[![CRTE](https://img.shields.io/badge/CRTE-Altered%20Security-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CRTM](https://img.shields.io/badge/CRTM-Altered%20Security-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
+Vendor / Core — CEH · SecurityX (CASP+) · CCNA · NSE 3 · NSE 6
 
-**The SecOps Group**
-&nbsp;
-[![CRTeamerX](https://img.shields.io/badge/CRTeamerX-SecOps%20Group-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CRTeamer](https://img.shields.io/badge/CRTeamer-SecOps%20Group-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![C-ADPenX](https://img.shields.io/badge/C--ADPenX-SecOps%20Group-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CAPenX](https://img.shields.io/badge/CAPenX-SecOps%20Group-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CAPen](https://img.shields.io/badge/CAPen-SecOps%20Group-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CNPen](https://img.shields.io/badge/CNPen-SecOps%20Group-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![C-APIPen](https://img.shields.io/badge/C--APIPen-SecOps%20Group-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CDAPen](https://img.shields.io/badge/CDAPen-SecOps%20Group-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
+<sub>⚠️ Issuer teyit: <code>AD-RTS · WEB-RTA · API-RTA</code> — kısaltmaların tam adı/kurumu belirsiz.</sub>
 
-**CyberWarFare Labs**
-&nbsp;
-[![CRTA](https://img.shields.io/badge/CRTA-CWL-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CRTS V2](https://img.shields.io/badge/CRTS%20V2-CWL-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CRT-ID](https://img.shields.io/badge/CRT--ID-CWL-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CRT-COI](https://img.shields.io/badge/CRT--COI-CWL-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CEDP](https://img.shields.io/badge/CEDP-CWL-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CO3](https://img.shields.io/badge/CO3-CWL-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![C3SA](https://img.shields.io/badge/C3SA-CWL-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
+Project Portfolio
+<table> <tr> <td width="50%" valign="top">
+FecaiCTI NEXUS
+Modular cyber threat intelligence and external attack surface monitoring platform for organizations.
 
-**INE / eLearnSecurity**
-&nbsp;
-[![eWPTX](https://img.shields.io/badge/eWPTX-INE-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
-[![eCPPT](https://img.shields.io/badge/eCPPT-INE-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![eMAPT](https://img.shields.io/badge/eMAPT-INE-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![eSOC](https://img.shields.io/badge/eSOC-INE-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
+Leaked credentials, threat detections, alerts, incidents, fake domains, dark web signals, vendor risk, VIP protection, compliance workflows, and operational security risk management.
 
-**Mobile — 8kSec**
-&nbsp;
-[![CMPen](https://img.shields.io/badge/CMPen-8kSec-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
+<sub>NestJS · TypeScript · Next.js · PostgreSQL · Prisma · Redis · RabbitMQ · MinIO · Docker</sub>
 
-**Malware Development — MalDev Academy**
-&nbsp;
-[![MDC](https://img.shields.io/badge/MDC-MalDev%20Academy-E0231C?style=for-the-badge&labelColor=0A0A0A)](#)
+</td> <td width="50%" valign="top">
+Null Linux
+Arch-based cybersecurity distribution for security research, privacy, and offensive/defensive workflows.
 
-**OPSWAT Academy**
-&nbsp;
-[![Comprehensive OSINT Expert](https://img.shields.io/badge/Comprehensive%20OSINT%20Expert-OPSWAT-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![Ethical Hacking Expert](https://img.shields.io/badge/Ethical%20Hacking%20Expert-OPSWAT-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![WebApp Exploitation Expert](https://img.shields.io/badge/WebApp%20Exploitation%20Expert-OPSWAT-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![Password Cracking Expert](https://img.shields.io/badge/Password%20Cracking%20Expert-OPSWAT-30363D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![OT Security Expert](https://img.shields.io/badge/OT%20Security%20Expert-OPSWAT-D97706?style=for-the-badge&labelColor=0A0A0A)](#)
-[![Schneider PLC Secure Config Expert](https://img.shields.io/badge/Schneider%20PLC%20Secure%20Config%20Expert-OPSWAT-D97706?style=for-the-badge&labelColor=0A0A0A)](#)
-[![Siemens PLC Secure Config Expert](https://img.shields.io/badge/Siemens%20PLC%20Secure%20Config%20Expert-OPSWAT-D97706?style=for-the-badge&labelColor=0A0A0A)](#)
+Curated tooling for red team, blue team, OSINT, OPSEC, forensics, networking, web & wireless security, exploitation, and privacy-focused daily usage.
 
-**Blue Team / Defense**
-&nbsp;
-[![BTL1](https://img.shields.io/badge/BTL1-Security%20Blue%20Team-1679A7?style=for-the-badge&labelColor=0A0A0A)](#)
-[![BTL2](https://img.shields.io/badge/BTL2-Security%20Blue%20Team-1679A7?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CCD L1](https://img.shields.io/badge/CCD%20L1-CyberDefenders-1679A7?style=for-the-badge&labelColor=0A0A0A)](#)
-[![CCD L2](https://img.shields.io/badge/CCD%20L2-CyberDefenders-1679A7?style=for-the-badge&labelColor=0A0A0A)](#)
+<sub>Arch Linux · BlackArch · KDE Plasma · Calamares · Privacy Tooling</sub>
 
-**Vendor / Core**
-&nbsp;
-[![CEH](https://img.shields.io/badge/CEH-EC--Council-A6120D?style=for-the-badge&labelColor=0A0A0A)](#)
-[![SecurityX](https://img.shields.io/badge/SecurityX%20(CASP%2B)-CompTIA-E30613?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0A0A0A)](#)
-[![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0A0A0A)](#)
-[![NSE 3](https://img.shields.io/badge/NSE%203-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=0A0A0A)](#)
-[![NSE 6](https://img.shields.io/badge/NSE%206-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=0A0A0A)](#)
+</td> </tr> <tr> <td width="50%" valign="top">
+CyberRSS
+Self-hosted intelligence feed aggregator for cybersecurity, AI, and technology content.
 
-<sub>⚠️ Teyit et: <code>AD-RTS / WEB-RTA / API-RTA</code> kısaltmalarının tam adı/issuer'ından emin değilim — doğrusunu yaz, ekleyeyim. Her badge'in <code>(#)</code> linkini kendi doğrulama URL'inle (Credly / OffSec / sertifika sayfası) değiştir.</sub>
+Collects, normalizes, classifies, and presents relevant technical content from multiple sources through clean intelligence-oriented workflows.
 
----
+<sub>RSS · Threat Intelligence · Feed Processing · Automation</sub>
 
-## 🧰 Arsenal
+</td> <td width="50%" valign="top">
+Broowser
+Firefox-based browser focused on privacy, security, hardened defaults, and a cleaner browsing experience.
 
-**Recon & Web**
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+Browser customization, privacy-first configuration, security-oriented UX, and controlled browsing environments.
 
-**Red Team & C2**
-![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-E0231C?style=for-the-badge&labelColor=0A0A0A)
-![Sliver](https://img.shields.io/badge/Sliver%20C2-1F2937?style=for-the-badge&labelColor=0A0A0A)
-![BloodHound](https://img.shields.io/badge/BloodHound-1F2937?style=for-the-badge&labelColor=0A0A0A)
-![Mythic](https://img.shields.io/badge/Mythic%20C2-1F2937?style=for-the-badge&labelColor=0A0A0A)
+<sub>Firefox · Browser Hardening · Privacy · Security Defaults</sub>
 
-**Reverse Engineering & Exploit Dev**
-![Ghidra](https://img.shields.io/badge/Ghidra-9B2226?style=for-the-badge&labelColor=0A0A0A)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1D1D1D?style=for-the-badge&labelColor=0A0A0A)
-![x64dbg](https://img.shields.io/badge/x64dbg-2A2A2A?style=for-the-badge&labelColor=0A0A0A)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![pwntools](https://img.shields.io/badge/pwntools-111111?style=for-the-badge&labelColor=0A0A0A)
+</td> </tr> <tr> <td width="50%" valign="top">
+Null Calamares
+Installer foundation for a security-focused Linux distribution experience.
 
-**Platforms**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Installation flow, distribution branding, privacy options, security workflow setup, and curated package selection.
 
----
+<sub>Calamares · Linux Installer · Distribution Engineering</sub>
 
-## ⚙️ Languages & Scripting
+</td> <td width="50%" valign="top">
+Null Welcome
+Onboarding and post-install experience for Null Linux.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&labelColor=0A0A0A)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Tool discovery, role-based security workflows, multilingual UX, privacy guidance, and practical system setup.
 
----
+<sub>Desktop UX · Security Workflows · Linux Onboarding</sub>
 
-## 📊 GitHub
+</td> </tr> </table>
+Engineering Stack
+<div align="center">
+Languages & Runtime
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash,nodejs&theme=dark" />
+Backend, Frontend & Data
+
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,postgres,redis,prisma,rabbitmq&theme=dark" />
+Infrastructure & Operations
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,prometheus,grafana&theme=dark" /> </div>
+Linux & Distribution Work
+<div align="center"> <img src="https://img.shields.io/badge/Arch%20Linux-020617?style=for-the-badge&logo=archlinux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-020617?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Gentoo-020617?style=for-the-badge&logo=gentoo&logoColor=white" /> <img src="https://img.shields.io/badge/Void%20Linux-020617?style=for-the-badge&logo=voidlinux&logoColor=white" /> <img src="https://img.shields.io/badge/Fedora-020617?style=for-the-badge&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/BlackArch-020617?style=for-the-badge" /> <img src="https://img.shields.io/badge/KDE%20Plasma-020617?style=for-the-badge&logo=kde&logoColor=white" /> <img src="https://img.shields.io/badge/Wayland-020617?style=for-the-badge" /> <img src="https://img.shields.io/badge/Calamares-020617?style=for-the-badge" /> </div>
+Security Tooling Ecosystem
+<div align="center">
+Web, AppSec & Recon
+
+<img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/OWASP%20ZAP-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nuclei-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/ffuf-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nikto-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gobuster-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/sqlmap-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Amass-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Subfinder-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/httpx-111827?style=for-the-badge" />
+Network, Vulnerability & Traffic Analysis
+
+<img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nessus-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Masscan-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Naabu-0f172a?style=for-the-badge" />
+Blue Team, Detection & Intelligence
+
+<img src="https://img.shields.io/badge/YARA-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Sigma-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Suricata-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Zeek-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Wazuh-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Elastic-1e293b?style=for-the-badge&logo=elastic&logoColor=white" /> <img src="https://img.shields.io/badge/Shodan-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Maltego-1e293b?style=for-the-badge" /> <img src="https://img.shields.io/badge/SpiderFoot-1e293b?style=for-the-badge" /> </div>
+GitHub Analytics
+<div align="center"> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inilvinilra&theme=github_dark" alt="GitHub stats" /> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inilvinilra&theme=github_dark" alt="Repositories per language" />
+<br><br>
+
+<img width="86%" src="https://streak-stats.demolab.com?user=inilvinilra&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB" />
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=inilvinilra&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=e5e7eb&area=true&hide_border=true" /> </div>
+Contribution Flow
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake.svg" /> <img width="96%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/inilvinilra/inilvinilra/output/github-snake.svg" /> </picture> </div>
+Current Direction
+Currently focused on secure backend architecture, CTI and OSINT product development, external attack surface monitoring workflows, Linux distribution engineering, privacy-oriented system design, DevOps/SecOps infrastructure, and security tooling with Go, Rust, Python, and TypeScript.
+
+I prefer building practical systems over relying on ready-made tools — understanding how systems work, designing clean architectures, and improving projects through real testing, automation, and operational thinking.
 
 <div align="center">
+<a href="mailto:inilvinilra@proton.me"><img src="https://img.shields.io/badge/inilvinilra@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=inilvinilra&show_icons=true&count_private=true&hide_border=true&title_color=E0231C&icon_color=E0231C&text_color=DFE7E0&bg_color=05070A" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inilvinilra&layout=compact&langs_count=8&hide_border=true&title_color=E0231C&text_color=DFE7E0&bg_color=05070A" alt="top langs" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=inilvinilra&hide_border=true&background=05070A&stroke=E0231C&ring=E0231C&fire=E0231C&currStreakLabel=E0231C&sideLabels=DFE7E0&dates=78837C&currStreakNum=DFE7E0&sideNums=DFE7E0" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=inilvinilra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/inilvinilra.xyz-E0231C?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A0A0A)](https://inilvinilra.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/inlvinilra)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0A0A0A)](https://tryhackme.com/p/inilvinilra)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0A0A0A)](https://app.hackthebox.com/profile/inilvinilra)
-
-<br/>
-
-<sub><code>All offensive work is authorized, scoped and disclosed responsibly.</code></sub>
-
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e293b,50:0f172a,100:020617" /> </div>
